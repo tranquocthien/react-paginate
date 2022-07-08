@@ -19,8 +19,6 @@ $ make serve
 
 Open your browser and go to [http://localhost:3000/](http://localhost:3000/)
 
-<img src="https://cloud.githubusercontent.com/assets/2084833/24840241/7c95b7b2-1d1e-11e7-97e3-83b9c7a1f832.gif" alt="Pagination demo" />
-
 ## Props
 | Name                      | Type        | Description                                                                                   |
 | ---                       | ---         | ---                                                                                           |
